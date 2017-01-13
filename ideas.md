@@ -12,3 +12,5 @@ Please contribute with your own ideas via pull request, or simply raise an issue
 * Create a todo list app
 * Create a 2048 game
 * Hex color guessing game
+* Build a dice game, e.g. "Shut the box"
+* 
